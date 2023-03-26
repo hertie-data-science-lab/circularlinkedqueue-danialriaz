@@ -11,7 +11,7 @@ returns the element that is currently at the head of the queue. Raises an except
 ```dequeue(self)```
 Removes the first element of the queue.
 
-```dequeue(self)```
+```equeue(self)```
 Adds an element to the back of the queue. Raises an exception if the queue is empty.
 
 ```def rotate(self):```
