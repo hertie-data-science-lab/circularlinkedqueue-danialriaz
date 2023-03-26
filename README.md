@@ -26,3 +26,9 @@ Current Size 3
 Current Head a
 Current Head after rotating b
 ```
+# Group members:
+
+Augusto Fonseca - 225984@students.hertie-school.org
+Rodrigo Dornelles - 228446@students.hertie-school.org
+Danial Riaz - 201678@students.hertie-school.org
+Fernando Corral - 222836@students.hertie-school.org
